@@ -1,5 +1,5 @@
 <template>
-    <div>
+    <div class="flex">
         <h6 class="text-center text-4xl font-light mb-5">{{ sliderTitle }}</h6>
         <VueSlickCarousel :arrows="false" :dots="true" v-if="sliderType !== 'product'">
             <div class="flex justify-center">
