@@ -53,6 +53,12 @@
     .slick-slide {
         width: 100%;
     }
+    .slick-slider {
+        position:relative;
+    }
+    .slick-slide ~ *{
+        display: block !important;
+    }
     .slick-dots{
         top: -35px;
         left: -20px;
