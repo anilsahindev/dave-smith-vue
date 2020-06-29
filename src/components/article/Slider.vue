@@ -50,6 +50,9 @@
     .flex{
         display: flex !important;
     }
+    .slick-slide {
+        width: 100%;
+    }
     .slick-dots{
         top: -35px;
         left: -20px;
