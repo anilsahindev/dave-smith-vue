@@ -1,4 +1,4 @@
-live demo : https://dave-smith-vue.vercel.app/
+
 ## Project setup
 ```
 yarn install
@@ -18,6 +18,8 @@ yarn build
 ```
 yarn lint
 ```
+
+live demo : https://dave-smith-vue.vercel.app/
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
