@@ -1,0 +1,34 @@
+{
+  "gameList": [
+    {
+      "id": 1,
+      "name": "League Of Legends ",
+      "ip": "104.17.165.5",
+      "img": "lol.png"
+    },
+    {
+      "id": 2,
+      "name": "CS:GO",
+      "ip": "192.69.96.1",
+      "img": "csgo.jpg"
+    },
+    {
+      "id": 3,
+      "name": "PUBG",
+      "ip": "3.248.0.0",
+      "img": "fortnite.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Fortnite",
+      "ip": "34.234.162.232",
+      "img": "pubg.jpg"
+    },
+    {
+      "id": 5,
+      "name": "DOTA 2",
+      "ip": "146.66.155.1",
+      "img": "dota.jpg"
+    }
+  ]
+}
